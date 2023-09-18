@@ -1,0 +1,1 @@
+import{_ as e,c as o,o as t,b as s}from"./entry.68beb385.js";const n={},a={class:"p-4"},c=s("h3",null,"Calendar Component Content",-1),r=[c];function _(d,p,l,i,f,h){return t(),o("div",a,r)}const u=e(n,[["render",_]]);export{u as default};

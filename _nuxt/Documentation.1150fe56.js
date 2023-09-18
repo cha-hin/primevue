@@ -1,0 +1,1 @@
+import{_ as o,c as t,o as e,b as n}from"./entry.68beb385.js";const s={},c={class:"p-4"},a=n("h3",null,"Documentation Component Content",-1),_=[a];function r(i,p,d,l,m,u){return e(),t("div",c,_)}const h=o(s,[["render",r]]);export{h as default};
